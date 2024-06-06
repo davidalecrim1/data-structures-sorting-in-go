@@ -1,6 +1,6 @@
 # Data Structures in Go
 
-Just trying and learning about it with Go.
+Just trying and learning about sorting strategies it with Go.
 
 ## Getting Started
 
