@@ -70,4 +70,4 @@ Time Complexity: **O(n log n)** in all cases (worst, average, and best). It buil
 These time complexities provide an understanding of how the sorting algorithms perform as the size of the input array increases. In practice, the choice of sorting algorithm depends on various factors such as the size of the data, the nature of the data (nearly sorted, mostly sorted, or completely random), memory constraints, and the need for stability (maintaining the relative order of equal elements).
 
 ### Online Examples
-- ![ComparisonSort Website](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+- [ComparisonSort Website](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
